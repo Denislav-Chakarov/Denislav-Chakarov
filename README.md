@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Denislav Chakarov
 - 👀 I’m interested in becoming a web developer.
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Laravel
 - 📫 How to reach me - denislav.4ak1rov@abv.bg
 
 <!---
